@@ -1,5 +1,12 @@
+
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    
+}
 .contact__container{
-    background: var(--color-bg1);
+    background: rgb(58, 24, 58);
     padding: 4rem;
     display: grid;
     grid-template-columns: 40% 60%;
@@ -9,7 +16,7 @@
     border-radius: 1rem;
 }
 .contact__aside{
-    background: var(--color-primary)
+    background: plum
     ;
     padding: 3rem;
     border-radius: 1rem;
